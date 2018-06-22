@@ -3,6 +3,7 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
+  answer=num1.to_f-
 end
 
 def division(num1, num2)
